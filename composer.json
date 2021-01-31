@@ -1,7 +1,7 @@
 {
 	"name": "jakesutherland/nomad-virtual-pages",
 	"type": "library",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A WordPress PHP Composer package that allows you to quickly and easily implement Virtual Pages in your project.",
 	"homepage": "https://jakesutherland.com",
 	"license": "MIT",

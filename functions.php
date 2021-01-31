@@ -18,7 +18,7 @@ if ( ! defined( 'NOMAD_VIRTUAL_PAGES_VERSION' ) ) {
 	 *
 	 * @since 1.0.0
 	 */
-	define( 'NOMAD_VIRTUAL_PAGES_VERSION', '1.0.0' );
+	define( 'NOMAD_VIRTUAL_PAGES_VERSION', '1.0.1' );
 
 }
 
